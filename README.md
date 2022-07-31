@@ -1,3 +1,1 @@
-## <a id="Presentation"></a>Презентация версии с алертом
-(./presentation/1.png)
-(./presentation/2.png)
+<img src="./presentation/1.png" alt="One Screen"/> <img src="./presentation/2.png" alt="Two Screen"/>
