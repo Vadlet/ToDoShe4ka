@@ -13,6 +13,7 @@
 		FA304A3C289673E400417BA8 /* ToDoShe4ka.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FA304A3A289673E400417BA8 /* ToDoShe4ka.xcdatamodeld */; };
 		FA304A3E289673E800417BA8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA304A3D289673E800417BA8 /* Assets.xcassets */; };
 		FA304A41289673E800417BA8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA304A3F289673E800417BA8 /* LaunchScreen.storyboard */; };
+		FA304A4928968C1000417BA8 /* TaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA304A4828968C1000417BA8 /* TaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FA304A3D289673E800417BA8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA304A40289673E800417BA8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA304A42289673E800417BA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA304A4828968C1000417BA8 /* TaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				FA304A31289673E400417BA8 /* AppDelegate.swift */,
 				FA304A33289673E400417BA8 /* SceneDelegate.swift */,
 				FA304A35289673E400417BA8 /* TaskListViewController.swift */,
+				FA304A4828968C1000417BA8 /* TaskViewController.swift */,
 				FA304A3D289673E800417BA8 /* Assets.xcassets */,
 				FA304A3F289673E800417BA8 /* LaunchScreen.storyboard */,
 				FA304A42289673E800417BA8 /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				FA304A36289673E400417BA8 /* TaskListViewController.swift in Sources */,
 				FA304A3C289673E400417BA8 /* ToDoShe4ka.xcdatamodeld in Sources */,
+				FA304A4928968C1000417BA8 /* TaskViewController.swift in Sources */,
 				FA304A32289673E400417BA8 /* AppDelegate.swift in Sources */,
 				FA304A34289673E400417BA8 /* SceneDelegate.swift in Sources */,
 			);
